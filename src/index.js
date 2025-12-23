@@ -1,1 +1,1 @@
-alert("Welcome to my AI generator");
+console.log("Welcome to my AI generator");
